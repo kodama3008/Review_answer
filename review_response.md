@@ -1,4 +1,4 @@
-# Response to Reviews（IPSJ 26-F018）
+# レビュー返答（IPSJ 26-F018）
 
 ## A系コメント（A-1〜A-3）
 
